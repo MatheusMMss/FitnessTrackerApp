@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         mainItems.add(
             MainItem(
                 id = 1,
-                drawableId = R.drawable.ic_baseline_scale_24,
+                drawableId = R.drawable.imc,
                 textStringId = R.string.label_imc,
                 color = Color.LTGRAY
             )
@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         mainItems.add(
             MainItem(
                 id = 2,
-                drawableId = R.drawable.ic_baseline_accessibility_24,
+                drawableId = R.drawable.tmb,
                 textStringId = R.string.label_tmb,
                 color = Color.LTGRAY
             )
@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         mainItems.add(
             MainItem(
                 id = 3,
-                drawableId = R.drawable.ic_baseline_360_24,
+                drawableId = R.drawable.rcq,
                 textStringId = R.string.label_rcq,
                 color = Color.LTGRAY
             )
@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         mainItems.add(
             MainItem(
                 id = 4,
-                drawableId = R.drawable.ic_baseline_water_drop_24,
+                drawableId = R.drawable.water,
                 textStringId = R.string.label_water,
                 color = Color.LTGRAY
             )
